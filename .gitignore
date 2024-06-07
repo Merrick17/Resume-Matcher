@@ -134,8 +134,6 @@ dmypy.json
 .idea/*
 
 # Vscode's Files
-.vscode
-.vscode/*
 
 scripts/similarity/config.yml
 
@@ -145,3 +143,7 @@ scripts/similarity/config.yml
 # Processed or local files
 /Data/Processed/*
 *.local.pdf
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
